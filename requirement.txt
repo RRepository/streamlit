@@ -1,0 +1,7 @@
+snowflake-connector-python
+streamlit
+pandas
+matplotlib
+plotly
+fpdf
+os
